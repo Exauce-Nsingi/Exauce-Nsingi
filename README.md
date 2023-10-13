@@ -11,12 +11,13 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://symfony.com/logos/symfony_black_03.png"></code>
+<code><img height="60" src="https://www.gstatic.com/devrel-devsite/prod/v4f6b0c5b5f6a7a3440fca4dcbf5b8f4bfbdbb3e4e8a0d5b6b4e7b8c5e9c3d4e0/tensorflow/images/lockup.svg"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://symfony.com/logos/symfony_black_03.png"></code>
 <code><img height="60" src="https://laravel.com/img/logomark.min.svg"></code>
 
 
