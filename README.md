@@ -4,7 +4,7 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 For your independent work? contact us, [email](mailto:nsingi.e@calculus-system.cd) :)
+- 💼 For your independent work? contact us, [Email](mailto:nsingi.e@calculus-system.cd) :)
 - 💬 Ask me your questions and I will be happy to understand you by the grace of Jesus Christ;
 
 ## Languages and Tools:
