@@ -16,7 +16,8 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="50" src="https://api-platform.com/static/brand/logo-api-platform.png"></code>
+<code><img height="50" src="https://avatars.githubusercontent.com/u/25152556?s=200&v=4"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="50" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg"></code>
 <code><img height="50" src="https://www.r-project.org/logo/Rlogo.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
