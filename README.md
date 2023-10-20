@@ -2,7 +2,6 @@
 I'm a passionate self-taught full stack web developer and software engineer at [Calculus-System S.A.R.L](https://calculus-system.cd/) in R.D.Congo. My concern is to realize the imagination of needs in computer software with ergonomic and intuitive interfaces. I take great care of user needs, delivery times and the quality of the code of the software I build.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 For your independent work? contact us, [Email](mailto:nsingi.e@calculus-system.cd) :)
 - 💬 Ask me your questions and I will be happy to understand you by the grace of Jesus Christ;
@@ -50,6 +49,8 @@ If you like what i do, maybe consider buying me a coffee or tea 😊😉👇
 # My Git-Hub Stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Exauce-Nsingi&show_icons=true&theme=gotham" alt="Exaucé Nsingi" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 <!--
 **Exauce-Nsingi/Exauce-Nsingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
