@@ -9,14 +9,17 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 ## Languages and Tools:
 
 <code><img height="50" src="https://symfony.com/logos/symfony_black_03.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://laravel.com/img/logomark.min.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Visual_Studio_Maui_Logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://www.arduino.cc/en/assets/arduino_logo.png"></code>
+<code><img height="50" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png"></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
