@@ -9,7 +9,7 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 ## Languages and Tools:
 
 <code><img height="50" src="https://symfony.com/logos/symfony_black_03.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Django_logo.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://laravel.com/img/logomark.min.svg"></code>
