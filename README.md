@@ -1,5 +1,5 @@
 # Hello, I am [Exaucé Nsingi](https://exaucensingi.com/), 
-I'm a passionate self-taught full stack web developer and software engineer at [Calculus-System S.A.R.L](https://calculus-system.cd/) in R.D.Congo. My concern is to realize the imagination of needs in computer software with ergonomic and intuitive interfaces. I take great care of user needs, delivery times and the quality of the code of the software I build.
+I am a passionate freelance software engineer and developer based in Kinshasa, D.R. Congo. My goal is to meet IT software needs with user-friendly and intuitive interfaces. I place great importance on user needs, delivery times, and the quality of the code in the software I develop.
 
 
   
@@ -8,9 +8,9 @@ I'm a passionate self-taught full stack web developer and software engineer at [
 
 ## Languages and Tools:
 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://symfony.com/logos/symfony_black_03.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://laravel.com/img/logomark.min.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
