@@ -24,11 +24,11 @@ I am a passionate freelance software engineer and developer based in Kinshasa, D
 <!--START_SECTION:waka-->
 
 ```txt                                              
-Symfony         30 hrs 30 mins    █████████████████████░░░░   80.93 %
-Python          28 hrs            ███████████████████░░░░░░   70.08 %
+Python          30 hrs 30 mins    █████████████████████░░░░   80.93 %
+Symfony         28 hrs            ███████████████████░░░░░░   70.08 %
 Git and Git-hub 20 hrs            ████████████████░░░░░░░░░   03.68 %
-C#              12 hrs            █████████████░░░░░░░░░░░░   03.47 %
-Laravel         6  hrs            ██████░░░░░░░░░░░░░░░░░░░   01.67 %
+Laravel         12 hrs            █████████████░░░░░░░░░░░░   03.47 %
+C#              6  hrs            ██████░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
