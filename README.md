@@ -3,7 +3,7 @@ I am a passionate freelance software engineer and developer based in Kinshasa, D
 
 
   
-- 💼 For your independent work? contact us, [Email](mailto:nsingi.e@calculus-system.cd) :)
+- 💼 For your independent work? contact us, [Email](mailto:exaucensingi1@gmail.com)
 - 💬 Ask me your questions and I will be happy to understand you by the grace of Jesus Christ;
 
 ## Languages and Tools:
@@ -13,10 +13,9 @@ I am a passionate freelance software engineer and developer based in Kinshasa, D
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://laravel.com/img/logomark.min.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></code>
-<code><img height="50" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png"></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
@@ -28,7 +27,7 @@ Python          30 hrs 30 mins    ███████████████�
 Symfony         28 hrs            ███████████████████░░░░░░   70.08 %
 Git and Git-hub 20 hrs            ████████████████░░░░░░░░░   03.68 %
 Laravel         12 hrs            █████████████░░░░░░░░░░░░   03.47 %
-C#              6  hrs            ██████░░░░░░░░░░░░░░░░░░░   01.67 %
+Flutter         20 hrs            ████████████████░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
